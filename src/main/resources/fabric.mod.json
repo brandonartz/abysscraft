@@ -2,6 +2,7 @@
   "schemaVersion": 1,
   "id": "modid",
   "version": "${version}",
+  "accessWidener" : "modid.accesswidener",
 
   "name": "AbyssCraft",
   "description": "This Fabric Modpack spawns an abyss with OddBlocks",
